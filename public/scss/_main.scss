@@ -1,1 +1,38 @@
 /* page style */
+
+//CONTAINERS
+#container {
+	// width: 50%;
+	// margin: 0 auto;
+}
+
+.lede-wrap {
+	position: relative;
+}
+
+.lede-content , #main {
+	width: 50%;
+	margin: 0 auto;
+}
+
+
+//LEDE
+.lede-content {
+	position: relative;
+	top: -7em;
+}
+
+.lede-image {
+	overflow: hidden;
+	height: 400px;
+}
+
+.hed {
+	color: $base-background-color;
+	opacity: 0.8;
+}
+
+img {
+	// max-width: 100%;
+}
+
