@@ -284,6 +284,15 @@ picture {
   opacity: 0.8;
 }
 
+/* line 35, ../scss/_main.scss */
+blockquote {
+  font: 1.6em/1.2em "NHaasGroteskDSPro-65Md", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif, sans-serif;
+  float: left;
+  margin-top: 0;
+  margin-left: -200px;
+  width: 70%;
+}
+
 /*-- MEDIA QUERIES -- */
 /* MOBILE */
 /* TABLET */
